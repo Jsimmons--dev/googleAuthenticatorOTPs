@@ -1,0 +1,25 @@
+{
+  "name": "otp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "enquirer": "^2.3.6",
+    "hi-base32": "^0.5.0",
+    "qrcode": "^1.4.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jsimmons--dev/googleAuthenticatorOTPs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jsimmons--dev/googleAuthenticatorOTPs/issues"
+  },
+  "homepage": "https://github.com/Jsimmons--dev/googleAuthenticatorOTPs#readme"
+}
